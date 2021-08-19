@@ -7,4 +7,4 @@ stack used:
 Html,Css, Javascript
 
 ****
-website :https://github.com/Radheshyam1234/bithdate-palindrome.git
+website :https://birthday-palindrome-test.netlify.app/
