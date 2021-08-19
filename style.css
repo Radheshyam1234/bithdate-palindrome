@@ -1,0 +1,61 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background-image: url('./image/bithdayimg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+.container{
+    margin:20vh auto;
+    background-color: #ffffff;
+    max-width:60vw;
+    /* padding:6rem; */
+    border:5px solid red;
+    border-radius: 6px;
+  
+}
+.content{
+    text-align:center;
+    margin:2rem;
+    font-size:1.5rem;
+    font-weight: bold;
+    padding: 4rem;
+    
+
+}
+
+input{
+
+    font-size: 15px;
+    margin-right: 6px;
+    border:2px solid blue;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+
+button{
+    margin-top: 1rem;
+    background-color: #1289A7;
+    padding:0.5rem;
+    border-radius:0.5rem;
+    border:none;
+    color:white;
+    cursor:pointer;
+    font-size:medium;
+    appearance: center;
+    
+}
+button:hover{
+    background-color:#009432;
+}
+
+.output{
+    color:rgb(253, 18, 18);
+    margin-top:2rem;
+    font-size: 2rem;
+}
