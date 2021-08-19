@@ -1,6 +1,6 @@
 # bithdate-palindrome
-This app checks if your birthdate is a palindrome or not
-Takes the birthdate as input 
+This app checks if your birthdate is a palindrome or not.
+It takes the birthdate as input 
 
 **** 
 stack used:
